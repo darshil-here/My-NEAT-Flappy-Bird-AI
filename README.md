@@ -13,5 +13,5 @@ You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for G
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/NEAT-Flappy-Bird/blob/master/flappy_bird.py)
 
 
-<h6>i've not actully coded it 😜</h6>
-<h6>copy-paste 😝</h6>
+<h6>i've not actully coded it 😜<br />
+copy-paste 😝</h6>
