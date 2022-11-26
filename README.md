@@ -1,3 +1,5 @@
+![meme](https://i.imgflip.com/7264f9.jpg)
+
 # NEAT-Flappy-Bird
 An AI that plays flappy bird! Using the NEAT python module.
 
