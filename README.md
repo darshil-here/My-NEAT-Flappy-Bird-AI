@@ -1,5 +1,3 @@
-![meme](https://i.imgflip.com/7264f9.jpg)
-
 <img src="https://i.imgflip.com/7264f9.jpg" alt="meme" width="240"/>
 
 # NEAT-Flappy-Bird
@@ -13,3 +11,7 @@ Simply run *flappy_bird.py* and watch an AI start training itself to play the ga
 You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for GitHub:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/NEAT-Flappy-Bird/blob/master/flappy_bird.py)
+
+
+<h6>i've not actully coded it 😜</h6>
+<h6>copy-paste 😝</h6>
